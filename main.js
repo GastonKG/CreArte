@@ -8,6 +8,7 @@ window.addEventListener("scroll", function () {
         document.getElementsByTagName("nav")[0].style.top = "-100px"
     }
     ubicacionPrincipal = desplazamientoActual;
+    console.log("HOLA");
 
 })
 
